@@ -1,0 +1,4 @@
+site_name: Projetos ZCLT
+use_directory_urls: true
+docs_dir: ./docs
+site_dir: ./public
