@@ -1,11 +1,10 @@
 # ZCLT
 
-## Projetcs
+!!! info "Principais projetos"
 
-### Gastoz
-
-### Mercado
-
-### Tô na vaca
-
-### Planice
+|Projeto|Tipo|
+|-|-:|
+|[Gastoz](gastoz.md)|Finanças|
+|[Mercado](mercado.md)|Cotidiano|
+|[Tô na vaca](to-na-vaca.md)|Galera|
+|[Planice](planice.md)|Finanças|
