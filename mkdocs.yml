@@ -2,3 +2,29 @@ site_name: Projetos ZCLT
 use_directory_urls: true
 docs_dir: ./docs
 site_dir: ./public
+
+theme:
+  name: material
+  # logo: images/logo.png
+  # favicon: images/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Projetos:
+      - Gastoz: gastoz.md
+      - Mercado: mercado.md
+      - Tô na vaca: to-na-vaca.md
+      - Planice: planice.md
+      
